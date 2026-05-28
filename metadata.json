@@ -1,0 +1,6 @@
+{
+  "name": "Fuerteventura TOP 100 Experiencias",
+  "description": "Interactive checklist and explorer for 100 curated adventures, sports, and leisure experiences in Fuerteventura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
